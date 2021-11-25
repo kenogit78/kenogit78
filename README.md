@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Nextjs
 - 👯 I’m looking to collaborate on ...React
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...[My portfolio](https://nifty-brattain-174cfd.netlify.app/)
+- 📫 How to reach me: ...[My portfolio](https://paulkeno.netlify.app/)
 - 😄 Pronouns: ...He/Him
 
