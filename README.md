@@ -9,9 +9,7 @@ Its my desire to contribute my quota to making the world a much better place usi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...zurichat
-- 🌱 I’m currently learning ...Nextjs
-- 👯 I’m looking to collaborate on ...React
+- 🌱 I’m currently learning ...webRTC
+- 👯 I’m looking to collaborate on ...React projects
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...[My portfolio](https://paulkeno.netlify.app/)
-- 😄 Pronouns: ...He/Him
-
