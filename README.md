@@ -10,8 +10,8 @@ Its my desire to contribute my quota to making the world a much better place usi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...a crypto app
-- 🌱 I’m currently learning ...Advanced JavaScript functions
-- 👯 I’m looking to collaborate on ...React projects
-- 💬 Ask me about ...anything
+- 🔭 I’m currently working on ...a crypto app.
+- 🌱 I’m currently learning ...TypeScript.
+- 👯 I’m looking to collaborate on ...React projects.
+- 💬 Ask me about ...anything.
 - 📫 How to reach me: ...[My portfolio](https://paulkeno.netlify.app/)
