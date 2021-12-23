@@ -2,11 +2,11 @@ Hi there 👋
 
 I'm Paul Keno Adaroje.
 
-I am a creative and solution-oriented Software Engineer who loves solving problems by creating products that have relevance in our present world.
+I am a Javascript Engineer who loves solving problems by creating products that have relevance in our present world.
 
-I am extremely passionate about technology and how it solves problems daily. 
+I focus on Javascript frontend frameworks such as React and Javascript runtime, Nodejs.
 
-Its my desire to contribute my quota to making the world a much better place using technology.
+I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
 
 Here are some ideas to get you started:
 
