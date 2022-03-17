@@ -2,9 +2,13 @@ Hi there 👋
 
 I'm Paul Keno Adaroje.
 
-I am a Javascript Engineer who loves solving problems by creating products that have relevance in our present world.
+I am a passionate Software Engineer who loves solving problems by creating products through codes.
 
-I focus on Javascript frontend frameworks such as React and Javascript runtime, Nodejs.
+I focus on Javascript frontend frameworks such as React, Vue and Nextjs.
+
+Nodejs is my preferred backend stack because of its Single-threaded architecture.
+
+MySQL, postgreSQL are some database I'm proficient at, but MongoDB is still my favorite
 
 I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
 
