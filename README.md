@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...any projects.
 - 💬 Ask me about ...anything.
 - 📫 How to reach me: ...[My portfolio](https://paulkeno.com/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenogit78)](https://github.com/anuraghazra/github-readme-stats)
