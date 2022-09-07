@@ -14,8 +14,7 @@ I have passion for technology and how it solves specific problems daily. Its my 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...Web3.
-- 👯 I’m looking to collaborate on ...any projects.
+- 🌱 I’m currently learning ...GoLang.
 - 💬 Ask me about ...anything.
 - 📫 How to reach me: ...[My portfolio](https://paulkeno.com/)
 
