@@ -6,7 +6,7 @@ I am a passionate Software Engineer who loves solving problems by creating produ
 
 I focus on Javascript frontend frameworks such as React, Vue and Nextjs.
 
-Nodejs is my preferred backend stack because of its Single-threaded architecture.
+Nodejs & Go are my backend stack.
 
 MySQL, postgreSQL are some database I'm proficient at, but MongoDB is still my favorite
 
