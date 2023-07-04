@@ -6,9 +6,9 @@ I am a passionate Software Engineer who loves solving problems by creating produ
 
 I focus on Javascript frontend frameworks such as React, Vue and Nextjs.
 
-Nodejs & Go are my backend stack.
+Nodejs, Python & Go are my preferred backend stack.
 
-MySQL, postgreSQL are some database I'm proficient at, but MongoDB is still my favorite
+I use MySQL, postgreSQL, MongoDB and AWS DynamoDB.
 
 I have passion for technology and how it solves specific problems daily. Its my desire to contribute my quota to making the world a much better place using technology.
 
