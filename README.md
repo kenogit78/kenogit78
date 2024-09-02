@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Paul Keno Adaroje.
+I'm Paul Adaroje.
 
 I am a passionate Software Engineer who loves solving problems by creating products through codes.
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...GoLang.
 - 💬 Ask me about ...anything.
-- 📫 How to reach me: ...[My portfolio](https://paulkeno.com/)
+- 📫 How to reach me: ...[My portfolio](https://pauladaroje.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenogit78)](https://github.com/anuraghazra/github-readme-stats)
